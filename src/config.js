@@ -56,7 +56,7 @@ export const CONFIG = {
   // ────── Owner Info ──────
   OWNER_NAME: unquote(env.OWNER_NAME || 'Lord Rahl'),
   OWNER_NUMBER: unquote(env.OWNER_NUMBER || '254112399557'),
-  PREFIX: unquote(env.PREFIX || '!'),
+  PREFIX: unquote(env.PREFIX || '.'),
   LANGUAGE: unquote(env.LANGUAGE || 'en'),
 
   // ────── Display & Themes ──────
